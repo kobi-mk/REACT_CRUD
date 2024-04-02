@@ -1,6 +1,7 @@
-# REACT 
- my first react application using hooks
- # Getting Started with Create React App
+# REACT_CRUD_project 
+My second react application using hooks & dummy json api
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
